@@ -42,7 +42,7 @@
     "gulp-sass": "^3.1.0",
     "gulp-sourcemaps": "^2.4.1",
     "jest-cli": "^19.0.2",
-    "node-notifier": "^5.0.2",
+    "node-notifier": "^8.0.1",
     "postcss-reporter": "^3.0.0",
     "postcss-scss": "^1.0.6",
     "prismjs": "^1.6.0",
